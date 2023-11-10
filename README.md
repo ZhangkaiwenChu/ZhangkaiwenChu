@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhangkaiwenChu.
-- 👀 I’m interested in Atrificial Intelligence.
+- 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Robotics.
 - 💞️ I’m looking to collaborate on Robotics.
 - 📫 How to reach me chuzhkw@seas.upenn.edu.
